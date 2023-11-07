@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(83, 67, 67);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: white;
+}
+
+#toInput {
+  padding: 6px 12px;
+}
+#toButton {
+  padding: 6px 12px;
+}
+li {
+  color: white;
+  padding: 5px;
+}
+button {
+  padding: 3px 8px;
+  gap: 10px;
+  margin-left: 5px;
+}
